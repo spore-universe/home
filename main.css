@@ -44,7 +44,7 @@ body {
 	/*z-index: 9.9;*/ 
     
     position: relative;
-    background-image:url("/static/war/images/content/background3.jpg");
+    background-image:url("background3.jpg");
     background-repeat:no-repeat;
     height: 727px;
     width: 1025px;
